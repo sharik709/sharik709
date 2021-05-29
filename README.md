@@ -21,6 +21,11 @@ I've about 6+ Years of experience in working with Laravel and Vuejs. 😎
   <li>ReactJS</li>
   <li>JMeter</li>
   <li>Micro-Services</li>
+  <li>HTML/HTML5</li>
+  <li>CSS/CSS3</li>
+  <li>Bootstrap</li>
+  <li>Tailwind</li>
+  <li>InertiaJS</li>
 </ul>
 
 Many more coming 💪
