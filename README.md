@@ -2,7 +2,7 @@
 
 Thanks for your visit on my GitHub. 🙏
 
-I've about 6+ Years of experience in working with Laravel and Vuejs. 😎
+I've about 8+ Years of experience in working with Laravel and Vuejs. 😎
 
 <h4>My Skills Include</h4>
 <ul>
@@ -12,15 +12,8 @@ I've about 6+ Years of experience in working with Laravel and Vuejs. 😎
   <li>JavaScript</li>
   <li>MySQL</li>
   <li>Docker</li>
-  <li>Kubernetes</li>
-  <li>Nginx</li>
-  <li>Linux</li>
   <li>AWS</li>
   <li>DigitalOcean</li>
-  <li>Ionic</li>
-  <li>ReactJS</li>
-  <li>JMeter</li>
-  <li>Micro-Services</li>
   <li>HTML/HTML5</li>
   <li>CSS/CSS3</li>
   <li>Bootstrap</li>
@@ -30,7 +23,7 @@ I've about 6+ Years of experience in working with Laravel and Vuejs. 😎
 
 Many more coming 💪
 
-I'm passionate about programming, I love building software with potentials to change the world in a good way.
+I'm passionate about senior software engineer, I love building software with potentials to change the world in a good way.
 
 I want to build more public packages and contribute to open source and be as helpful as possible for the community.
 
