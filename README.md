@@ -1,27 +1,21 @@
-### Hi there 👋
+### Hi there,
 
-Thanks for your visit on my GitHub. 🙏
+Thanks for your visit on my GitHub. 
 
-I've about 8+ Years of experience in working with Laravel and Vuejs. 😎
+I've about 8+ Years of experience in working with Laravel and Vuejs.
 
-<h4>My Skills Include</h4>
+<h4>My Top Skills</h4>
 <ul>
   <li>PHP</li>
   <li>Laravel</li>
   <li>VueJS</li>
   <li>JavaScript</li>
   <li>MySQL</li>
-  <li>Docker</li>
-  <li>AWS</li>
-  <li>DigitalOcean</li>
   <li>HTML/HTML5</li>
   <li>CSS/CSS3</li>
-  <li>Bootstrap</li>
-  <li>Tailwind</li>
-  <li>InertiaJS</li>
 </ul>
 
-Many more coming 💪
+Above list is the main area of focus for me but of course I have experience working with more technologies and frameworks.
 
 I'm passionate about senior software engineer, I love building software with potentials to change the world in a good way.
 
