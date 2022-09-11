@@ -42,7 +42,7 @@ If you have any work you wanna discuss. Feel free to contact me. 🥂
 <h3 align="center"> Get In Touch</h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/sharik_709" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/sharik-shaikh/" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50" /></a>
-&nbsp; <a href="mailto:shaikhsharik709@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/512/732/732200.png"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/sharik_709" target="_blank" rel="noopener noreferrer"><img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/sharik-shaikh/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" /></a>
+&nbsp; <a href="mailto:shaikhsharik709@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png"  width="50" /></a>
 </p>
