@@ -2,7 +2,7 @@
 
 Thanks for your visit on my GitHub. 
 
-I've about 8+ Years of experience in working with Laravel and Vuejs.
+I've about 10 Years of experience in working with PHP,8 years with Laravel and 3 Years with Vuejs.
 
 Here is an overview of my contribution and work so far on GitHub. <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharik709&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sharik's Github Stats">
@@ -20,7 +20,7 @@ Here is an overview of my contribution and work so far on GitHub. <br />
 
 Above list is the main area of focus for me but of course I have experience working with more technologies and frameworks.
 
-I'm passionate about senior software engineer, I love building software with potentials to change the world in a good way.
+I'm passionate programmer. I love building software with potentials to change the world in a good way.
 
 I want to build more public packages and contribute to open source and be as helpful as possible for the community.
 
