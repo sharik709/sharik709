@@ -4,7 +4,7 @@
 
 <!-- Fancy Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&background=000000&width=435&lines=Software+Developer;Laravel+Expert;AI+Enthusiast;Homelab+Builder;Blockchain+Explorer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&weight=500&size=22&pause=1000&color=F7F7F7&background=000000&width=435&lines=Software+Developer;Laravel+Expert;AI+Enthusiast;Homelab+Builder;Blockchain+Explorer;Always+Learning" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views -->
